@@ -6,6 +6,7 @@
 //
 
 import UIKit
+/// Controller to Episode VC
 
 final class RMEpisodeViewController: UIViewController {
 

@@ -6,6 +6,7 @@
 //
 
 import UIKit
+/// Controller to Location VC
 
 final class RMLocationViewController: UIViewController {
 

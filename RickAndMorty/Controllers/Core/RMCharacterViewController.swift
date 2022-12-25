@@ -6,6 +6,7 @@
 //
 
 import UIKit
+/// Controller to Characters VC
 
 final class RMCharacterViewController: UIViewController {
 
